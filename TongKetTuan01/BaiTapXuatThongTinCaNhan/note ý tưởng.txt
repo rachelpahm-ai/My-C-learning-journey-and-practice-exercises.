@@ -1,0 +1,4 @@
+1. chào + hỏi số giá trị nhập vào (kiểm tra phài là số nguyên dương)
+2. yêu cầu nhập các giá trị, ngăn cách các giá trị bằng dấu cách( xài split) (kiểm tra là số nguyên) --> cộng dồn
+3. tính trung bình= tổng giá trị/số giá trị đã nhập
+4. in ra tổng và trung bình cách nhau bởi dấu cách 

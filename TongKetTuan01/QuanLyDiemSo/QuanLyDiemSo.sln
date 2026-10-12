@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36915.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuanLyDiemSo", "QuanLyDiemSo.csproj", "{EDE340FA-DB71-4BD9-A580-B6C2772BDE37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThucHanh01", "..\ThucHanh01\ThucHanh01.csproj", "{AB9AA237-865E-4F8E-B452-1E33C8A4D5D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDE340FA-DB71-4BD9-A580-B6C2772BDE37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDE340FA-DB71-4BD9-A580-B6C2772BDE37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDE340FA-DB71-4BD9-A580-B6C2772BDE37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDE340FA-DB71-4BD9-A580-B6C2772BDE37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB9AA237-865E-4F8E-B452-1E33C8A4D5D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB9AA237-865E-4F8E-B452-1E33C8A4D5D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB9AA237-865E-4F8E-B452-1E33C8A4D5D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB9AA237-865E-4F8E-B452-1E33C8A4D5D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E549FE7F-0DFE-4C11-844C-736856FAFAD3}
+	EndGlobalSection
+EndGlobal
