@@ -27,6 +27,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03_Bai_tap_in_bang_cuu_chuo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Khoi_dong", "Khoi_dong\Khoi_dong.csproj", "{85801D56-2BCB-4D0D-8006-E49CAB3703ED}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vong-lap-long", "Vong-lap-long\Vong-lap-long.csproj", "{00E1EB32-6854-41C8-9B89-BA7D24821AD6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{85801D56-2BCB-4D0D-8006-E49CAB3703ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{85801D56-2BCB-4D0D-8006-E49CAB3703ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{85801D56-2BCB-4D0D-8006-E49CAB3703ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00E1EB32-6854-41C8-9B89-BA7D24821AD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00E1EB32-6854-41C8-9B89-BA7D24821AD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00E1EB32-6854-41C8-9B89-BA7D24821AD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00E1EB32-6854-41C8-9B89-BA7D24821AD6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -83,6 +89,7 @@ Global
 		{62F79E03-69C0-40DF-B90E-282F8603C115} = {563C732C-9D75-4D7C-9EAF-7ADB7CC5520C}
 		{45D75642-9FFE-458A-9A72-C1DE4799AE4A} = {563C732C-9D75-4D7C-9EAF-7ADB7CC5520C}
 		{85801D56-2BCB-4D0D-8006-E49CAB3703ED} = {D4F1450D-C503-407B-B31D-047116DFC58A}
+		{00E1EB32-6854-41C8-9B89-BA7D24821AD6} = {D4F1450D-C503-407B-B31D-047116DFC58A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {00A8CC05-1468-4BAC-8D1C-9F7947161580}
