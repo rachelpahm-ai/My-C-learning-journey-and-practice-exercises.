@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vong-lap-long", "Vong-lap-l
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trinh_bay_ma_tran", "Trinh_bay_ma_tran\Trinh_bay_ma_tran.csproj", "{ADD511E0-0E48-4546-9746-EE831E6A09D2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TH03De", "TH03De\TH03De.csproj", "{83149BF6-7488-4B8E-A271-D21B5231F9F8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{ADD511E0-0E48-4546-9746-EE831E6A09D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ADD511E0-0E48-4546-9746-EE831E6A09D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ADD511E0-0E48-4546-9746-EE831E6A09D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83149BF6-7488-4B8E-A271-D21B5231F9F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83149BF6-7488-4B8E-A271-D21B5231F9F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83149BF6-7488-4B8E-A271-D21B5231F9F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83149BF6-7488-4B8E-A271-D21B5231F9F8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -97,6 +103,7 @@ Global
 		{85801D56-2BCB-4D0D-8006-E49CAB3703ED} = {D4F1450D-C503-407B-B31D-047116DFC58A}
 		{00E1EB32-6854-41C8-9B89-BA7D24821AD6} = {D4F1450D-C503-407B-B31D-047116DFC58A}
 		{ADD511E0-0E48-4546-9746-EE831E6A09D2} = {D4F1450D-C503-407B-B31D-047116DFC58A}
+		{83149BF6-7488-4B8E-A271-D21B5231F9F8} = {D4F1450D-C503-407B-B31D-047116DFC58A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {00A8CC05-1468-4BAC-8D1C-9F7947161580}
